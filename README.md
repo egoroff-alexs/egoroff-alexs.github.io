@@ -3,7 +3,7 @@
 # egoroff-alexs.github.io
 Мой домашние задания
 
-## Егоров Алексей
+| ## Егоров Алексей
   [Урок 4](egoroff-alexs.github.io/lesson_4/src/index.html) - вёрстанная только на html книжка  
   [Урок 5](egoroff-alexs.github.io/lesson_5/src/index.html) - вёрстанная на html и css книжка  
   [Урок 6.1](egoroff-alexs.github.io/lesson_6.1/src/index.html) и [Урок 6.2](egoroff-alexs.github.io/lesson_6.2/src/index.html) - тренировка позицианирования  
