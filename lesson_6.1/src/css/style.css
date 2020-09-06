@@ -1,0 +1,31 @@
+*{
+ box-sizing: border-box;
+}
+body{
+	background-color: #E1E3E1;
+}
+a{
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #ffffff
+}
+.box{
+	background-color: #000000;
+	padding: 10px 40px;
+	height: 100px;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+.menu{
+	display: inline-block;
+	margin-right: 30px;
+	position: relative;
+	left: 40%;
+	top: -20px;
+}
+.text{
+	margin-top: 110px;
+	margin-right: 200px:;
+}
