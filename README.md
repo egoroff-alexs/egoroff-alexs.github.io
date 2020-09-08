@@ -12,3 +12,5 @@
   [Урок 8](egoroff-alexs.github.io/lesson_8/src/index.html) - знакомство с сеткой bootstrap  
   [Урок 9](egoroff-alexs.github.io/lesson_9/src/index.html) - вёрстка сайта с помощью bootstrap  
   [Урок 10](egoroff-alexs.github.io/lesson_10/src/index.html) - знакомство с less  
+  [Урок 13](egoroff-alexs.github.io/lesson_13/src/index.html) - Pixel Perfect  
+
