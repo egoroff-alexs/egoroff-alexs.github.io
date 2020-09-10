@@ -13,4 +13,5 @@
   [Урок 9](egoroff-alexs.github.io/lesson_9/src/index.html) - вёрстка сайта с помощью bootstrap  
   [Урок 10](egoroff-alexs.github.io/lesson_10/src/index.html) - знакомство с less  
   [Урок 13](egoroff-alexs.github.io/lesson_13/src/index.html) - Pixel Perfect  
+  [Урок 14](egoroff-alexs.github.io/lesson_14/src/index.html) - Подготовка файлов. Верстка шапки сайта.  
 
