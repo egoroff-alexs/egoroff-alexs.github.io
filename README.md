@@ -15,4 +15,5 @@
   [Урок 13](egoroff-alexs.github.io/lesson_13/src/index.html) - Pixel Perfect  
   [Урок 14](egoroff-alexs.github.io/lesson_14/src/index.html) - Подготовка файлов. Верстка шапки сайта.  
   [Урок 15](egoroff-alexs.github.io/lesson_15/src/index.html) - Подключение шрифтов.  
+  [Урок 16](egoroff-alexs.github.io/lesson_16/src/index.html) - Подключение шрифтов. Верстка первого экрана.  
 
