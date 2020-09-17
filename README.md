@@ -17,4 +17,5 @@
   [Урок 15](egoroff-alexs.github.io/lesson_15/src/index.html) - Подключение шрифтов.  
   [Урок 16](egoroff-alexs.github.io/lesson_16/src/index.html) - Подключение шрифтов. Верстка первого экрана.   
   [Урок 17](egoroff-alexs.github.io/lesson_17/src/index.html) - Псевдоклассы и псевдоэлементы.  
+  [Урок 18](egoroff-alexs.github.io/lesson_18/src/index.html) - Эффекты при наведении и адаптив первого экрана.  
 
