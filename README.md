@@ -20,4 +20,5 @@
   [Урок 18](egoroff-alexs.github.io/lesson_18/src/index.html) - Эффекты при наведении и адаптив первого экрана.  
   [Урок 19](egoroff-alexs.github.io/lesson_19/src/index.html) - Слайдер на сайте.  
   [Урок 23](egoroff-alexs.github.io/lesson_23/src/index.html) - Верстка блока с преимуществами. Слайдер.  
+  [Урок 24](egoroff-alexs.github.io/lesson_24/src/index.html) - Всплывающие окна.  
 
