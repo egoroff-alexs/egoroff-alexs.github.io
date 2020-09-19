@@ -1,0 +1,24 @@
+h4,p {
+	color: #FF6F0F;
+}
+
+p{
+	text-align: center;
+	font-size: 50px;
+}
+
+.modal-header{
+	background: #536872;
+}
+
+.modal-body{
+	background: #6F5572;
+}
+
+.btn-primary {
+	background: #CC397D;
+}
+
+.modal-footer{
+	background: #536872;
+}
