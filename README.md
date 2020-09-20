@@ -21,4 +21,5 @@
   [Урок 19](egoroff-alexs.github.io/lesson_19/src/index.html) - Слайдер на сайте.  
   [Урок 23](egoroff-alexs.github.io/lesson_23/src/index.html) - Верстка блока с преимуществами. Слайдер.  
   [Урок 24](egoroff-alexs.github.io/lesson_24/src/index.html) - Всплывающие окна.  
+  [Урок 25](egoroff-alexs.github.io/lesson_25/src/index.html) - Верстка всплывающих окон на сайте.  
 
