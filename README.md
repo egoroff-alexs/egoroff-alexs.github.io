@@ -23,6 +23,6 @@
   [Урок 24](egoroff-alexs.github.io/lesson_24/src/index.html) - Всплывающие окна.  
   [Урок 25](egoroff-alexs.github.io/lesson_25/src/index.html) - Верстка всплывающих окон на сайте.  
   [Урок 26.1](egoroff-alexs.github.io/lesson_26.1/src/index.html) и [Урок 26.2](egoroff-alexs.github.io/lesson_26.2/src/index.html) - Табы и аккордеон на сайте.  
-  [Урок 27](egoroff-alexs.github.io/lesson_27/src/index.html) - Верстка блока с ценами. 
+  [Урок 27](egoroff-alexs.github.io/lesson_27/src/index.html) - Верстка блока с ценами.  
   [Урок 28](egoroff-alexs.github.io/lesson_28/src/index.html) - Анимация на CSS3.   
 
