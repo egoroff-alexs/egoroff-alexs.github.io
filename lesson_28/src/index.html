@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Стиль анимации -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+  <!-- wow.js css -->
+  <link rel="stylesheet" href="plugins/WOW-master/css/libs/animate.css" type="text/css">
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<title>Анимация</title>
+</head>
+<body>
+
+<div class="box wow animate__backInDown"> 
+  <div class="container">
+    <div class="tabs">
+      <input id="tab1" type="radio" name="tabs" checked>
+      <label class="tab1" for="tab1" title="Вкладка 1">Вход</label>
+   
+      <input id="tab2" type="radio" name="tabs">
+      <label class="tab2"for="tab2" title="Вкладка 2">Регистрация</label>
+   
+      <section id="content-tab1">
+          <div class="form">
+            <form action="#">
+              <input class="form-input form-input-name" name="login" placeholder="Ваше имя">
+              <input class="form-input form-input-pass" name="pass" placeholder="Пароль">
+              <a class="lost_pass" href="#">Забыли пароль?</a>
+              <p class="checkbox"><input type="checkbox" name="a" value="Напомнить мне"> Напомнить мне</p>
+              <button class="form-btn button wow animate__heartBeat" data-wow-delay="4s" data-wow-duration="3s"   data-wow-iteration="200" type="submit">Войти</button> 
+            </form>
+          </div>
+      </section>  
+      <section id="content-tab2">
+          <p>
+            Здесь размещаете любое содержание....
+          </p>
+      </section>  
+    </div>
+  </div>
+</div>
+	
+ <script src="plugins/WOW-master/dist/wow.min.js"></script>
+ <script>new WOW().init();</script>
+
+</body>
+</html>
