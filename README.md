@@ -25,4 +25,5 @@
   [Урок 26.1](egoroff-alexs.github.io/lesson_26.1/src/index.html) и [Урок 26.2](egoroff-alexs.github.io/lesson_26.2/src/index.html) - Табы и аккордеон на сайте.  
   [Урок 27](egoroff-alexs.github.io/lesson_27/src/index.html) - Верстка блока с ценами.  
   [Урок 28](egoroff-alexs.github.io/lesson_28/src/index.html) - Анимация на CSS3.   
+  [Урок 29](egoroff-alexs.github.io/lesson_29/src/index.html) - Верстка блока с отзывами.   
 
