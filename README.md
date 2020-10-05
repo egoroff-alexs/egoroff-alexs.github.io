@@ -26,4 +26,5 @@
   [Урок 27](egoroff-alexs.github.io/lesson_27/src/index.html) - Верстка блока с ценами.  
   [Урок 28](egoroff-alexs.github.io/lesson_28/src/index.html) - Анимация на CSS3.   
   [Урок 29](egoroff-alexs.github.io/lesson_29/src/index.html) - Верстка блока с отзывами.   
+  [Урок 30](egoroff-alexs.github.io/lesson_30/src/index.html) - Видео-фон на сайте.   
 
