@@ -30,4 +30,5 @@
   [Урок 31](egoroff-alexs.github.io/lesson_31/src/index.html) - Доверстали блок с отзывами.   
   [Урок 32](egoroff-alexs.github.io/lesson_32/src/index.html) - Parallax эффект для сайта (неработает корректно).   
   [Урок 33](egoroff-alexs.github.io/lesson_33/src/index.html) - Верстаем схему работы и все включено.   
+  [Урок 34](egoroff-alexs.github.io/lesson_34/src/index.html) - Гео-карты для сайта.   
 
