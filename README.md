@@ -32,4 +32,5 @@
   [Урок 33](egoroff-alexs.github.io/lesson_33/src/index.html) - Верстаем схему работы и все включено.   
   [Урок 34](egoroff-alexs.github.io/lesson_34/src/index.html) - Гео-карты для сайта.   
   [Урок 35](egoroff-alexs.github.io/lesson_35/src/index.html) - Верстаем блок "Развеиваем сомнения".   
+  [Урок 37](egoroff-alexs.github.io/lesson_37/src/index.html) - Верстаем блок "Материалы".   
 
