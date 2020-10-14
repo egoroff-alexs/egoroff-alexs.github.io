@@ -33,4 +33,5 @@
   [Урок 34](egoroff-alexs.github.io/lesson_34/src/index.html) - Гео-карты для сайта.   
   [Урок 35](egoroff-alexs.github.io/lesson_35/src/index.html) - Верстаем блок "Развеиваем сомнения".   
   [Урок 37](egoroff-alexs.github.io/lesson_37/src/index.html) - Верстаем блок "Материалы".   
+  [Урок 39](egoroff-alexs.github.io/lesson_39/src/index.html) - Верстаем блок "Экскурсия" и "Доп. услуги".   
 
