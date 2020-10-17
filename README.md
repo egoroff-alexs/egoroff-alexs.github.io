@@ -34,4 +34,5 @@
   [Урок 35](egoroff-alexs.github.io/lesson_35/src/index.html) - Верстаем блок "Развеиваем сомнения".   
   [Урок 37](egoroff-alexs.github.io/lesson_37/src/index.html) - Верстаем блок "Материалы".   
   [Урок 39](egoroff-alexs.github.io/lesson_39/src/index.html) - Верстаем блок "Экскурсия" и "Доп. услуги".   
+  [Урок 41](egoroff-alexs.github.io/lesson_41/src/index.html) - Верстаем блок "Контакты" и "Подвал".   
 
